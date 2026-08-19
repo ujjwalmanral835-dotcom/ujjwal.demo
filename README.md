@@ -1,4 +1,4 @@
 # ujjwal.demo
 This is my first Git Repository.
 <br>
-Author - Ujjwal Manral
+Author - Ujjwal Singh Manral
